@@ -5,7 +5,6 @@ class Button extends Component {
   generateNumber = () => {
     // console.log('generator');
       this.props.generator();
-
   }
 
   render() {
